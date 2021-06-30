@@ -2,4 +2,3 @@
 - 👀 I’m interested in (Data) Science and Technology
 - 🌱 I’m currently learning Python and Rust
 - 💞️ I’m looking to collaborate on Saving the World
-- 📫 Maybe reach me with a PN
